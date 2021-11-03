@@ -6,3 +6,13 @@ Dynamic Block Allocation algorithm (DBA) represents a new and flexible method (2
 
 The source article:
 P. Gagniuc and C Ionescu-Tirgoviste, Dynamic block allocation for biological sequences, Proc. Rom. Acad., Series B, 2013, 15(3), p. 233-240.
+
+# Screenshot
+
+![screenshot](https://github.com/Gagniuc/Dynamic-Block-Allocation-algorithm/blob/main/1.PNG)
+
+![screenshot](https://github.com/Gagniuc/Dynamic-Block-Allocation-algorithm/blob/main/2.PNG)
+
+![screenshot](https://github.com/Gagniuc/Dynamic-Block-Allocation-algorithm/blob/main/3.PNG)
+
+![screenshot](https://github.com/Gagniuc/Dynamic-Block-Allocation-algorithm/blob/main/4.PNG)
