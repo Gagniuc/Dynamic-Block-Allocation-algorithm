@@ -10,6 +10,10 @@ Dynamic Block Allocation Algorithm [<kbd>Double Brute Force (DBFA)</kbd> and <kb
 
 # Screenshot
 
+![screenshot](https://github.com/Gagniuc/Dynamic-Block-Allocation-algorithm/blob/main/ScreenShot/C15.PNG)
+
+![screenshot](https://github.com/Gagniuc/Dynamic-Block-Allocation-algorithm/blob/main/ScreenShot/C16.PNG)
+
 ![screenshot](https://github.com/Gagniuc/Dynamic-Block-Allocation-algorithm/blob/main/1.PNG)
 
 ![screenshot](https://github.com/Gagniuc/Dynamic-Block-Allocation-algorithm/blob/main/2.PNG)
@@ -20,6 +24,4 @@ Dynamic Block Allocation Algorithm [<kbd>Double Brute Force (DBFA)</kbd> and <kb
 
 ![screenshot](https://github.com/Gagniuc/Dynamic-Block-Allocation-algorithm/blob/main/ScreenShot/C14.PNG)
 
-![screenshot](https://github.com/Gagniuc/Dynamic-Block-Allocation-algorithm/blob/main/ScreenShot/C15.PNG)
 
-![screenshot](https://github.com/Gagniuc/Dynamic-Block-Allocation-algorithm/blob/main/ScreenShot/C16.PNG)
