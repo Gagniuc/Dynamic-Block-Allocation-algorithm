@@ -22,6 +22,5 @@ The <kbd>Dynamic Block Allocation (DBA)</kbd> algorithm represents a flexible me
 
 ![screenshot](https://github.com/Gagniuc/Dynamic-Block-Allocation-algorithm/blob/main/ScreenShot/4.PNG)
 
-![screenshot]()
 
 
