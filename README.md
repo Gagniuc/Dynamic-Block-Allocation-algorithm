@@ -14,13 +14,5 @@ The <kbd>Dynamic Block Allocation (DBA)</kbd> algorithm represents a flexible me
 
 ![screenshot](https://github.com/Gagniuc/Dynamic-Block-Allocation-algorithm/blob/main/ScreenShot/C20.PNG)
 
-![screenshot](https://github.com/Gagniuc/Dynamic-Block-Allocation-algorithm/blob/main/ScreenShot/1.PNG)
-
-![screenshot](https://github.com/Gagniuc/Dynamic-Block-Allocation-algorithm/blob/main/ScreenShot/2.PNG)
-
-![screenshot](https://github.com/Gagniuc/Dynamic-Block-Allocation-algorithm/blob/main/ScreenShot/3.PNG)
-
-![screenshot](https://github.com/Gagniuc/Dynamic-Block-Allocation-algorithm/blob/main/ScreenShot/4.PNG)
-
 
 
