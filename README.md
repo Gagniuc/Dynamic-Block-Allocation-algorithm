@@ -11,5 +11,3 @@ Dynamic Block Allocation Algorithm [<kbd>Double Brute Force (DBFA)</kbd> and <kb
 # References
 
 - <i>P. Gagniuc and C Ionescu-Tirgoviste. Dynamic block allocation for biological sequences. Proc. Rom. Acad., Series B, 2013, 15(3), p. 233-240.</i> 
-
-
